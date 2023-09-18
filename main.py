@@ -1,7 +1,7 @@
 
 logones = ["B959263", "C569853", "T698952", "Z698563"]
 roles = ["SUPERIOR", "ADJUNTO", "TEMPORARIO", "TERCERIZADO"]
-contraseñas = ["B959263", "C569853", "T698952", "Z698563"]
+contraseñas = ["CHIPI1971", "EURASIA", "JAJAJANT", "ECHENME"]
 
 permisosRol = {
     "SUPERIOR": [1, 3, 4],
